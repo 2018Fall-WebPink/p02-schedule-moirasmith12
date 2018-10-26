@@ -1,0 +1,20 @@
+/*
+* Moira Smith
+* Due Date
+* Project Name and Description
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body {
+
+}
+#fruit { width: 200px; height: 150px; float right }
+#passport { width: 200px; height: 150px; }
+#friends { width: 200px; height: 100px; }
